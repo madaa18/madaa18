@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mada!
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Quality Assurance
+- 🌱 I’m currently learning Web Development and work as a game tester!
 - 📫 How to reach me->  mada_1804@yahoo.com
 
 <!---
